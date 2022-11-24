@@ -1,7 +1,5 @@
 # calculator
 
-## Download Apks
-
 ## How to Use 
 
 *Step 1:*
